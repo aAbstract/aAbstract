@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1asmubf_du1sgNrheo2b4MSnAT4d-wgQZPmyY8cX2eLA/edit?usp=sharing](https://docs.google.com/document/d/1asmubf_du1sgNrheo2b4MSnAT4d-wgQZPmyY8cX2eLA/edit?usp=sharing)
 
-- 🛠️ I'm currently working on a personal project <b>ZEOS</b> which is a minimal operating system for IoT devices [https://github.com/aAbstract/zeos].
+- 🛠️ I'm currently working on a personal project <b>ZEOS</b> which is a minimal operating system for IoT devices [https://github.com/aAbstract/zeos](https://github.com/aAbstract/zeos).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
