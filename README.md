@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1asmubf_du1sgNrheo2b4MSnAT4d-wgQZPmyY8cX2eLA/edit?usp=sharing](https://docs.google.com/document/d/1asmubf_du1sgNrheo2b4MSnAT4d-wgQZPmyY8cX2eLA/edit?usp=sharing)
 
-- 🛠️ I'm currently working on a personal project <b>ISI-IoT-OS</b> which is a minimal operating system for IoT devices based on micropython [https://github.com/aAbstract/isi-iot-os](https://github.com/aAbstract/isi-iot-os).
+- 🛠️ I'm currently working on a personal project <b>ZEOS-V2</b> which is a minimal operating system for IoT devices based on micropython [https://github.com/aAbstract/zeos-v2](https://github.com/aAbstract/zeos-v2).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
