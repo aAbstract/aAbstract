@@ -9,7 +9,7 @@
 - 📄 Know about my experiences [CV](https://docs.google.com/document/d/1asmubf_du1sgNrheo2b4MSnAT4d-wgQZPmyY8cX2eLA/edit?usp=sharing)
 
 - 🛠️ I'm currently working on a personal project <b>VLink</b> which is a **high-performance Serial-to-TCP Gateway** 
-that bridges a single physical serial port (UART, RS-232, RS-485) to multiple simultaneous TCP or emulated VCOM connections. [VLink](https://github.com/aAbstract/zeos-v2).
+that bridges a single physical serial port (UART, RS-232, RS-485) to multiple simultaneous TCP or emulated VCOM connections. [VLink](https://github.com/aAbstract/vlink-public).
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/eslam-elsharkawy-087799184)
 
