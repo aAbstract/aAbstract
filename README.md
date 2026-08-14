@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/aAbstract)
 
-- 📝 I regularly write articles on [GitHub](https://github.com/aAbstract)
+- 📝 I regularly write articles on [GitHub](https://github.com/aAbstract/articles)
 
 - 📫 How to reach me **elshareslam@gmail.com**
 
